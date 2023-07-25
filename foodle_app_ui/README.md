@@ -22,8 +22,6 @@ This Flutter project demonstrates the usage of the following widgets:
 
 ## Screenshots
 
-![Screenshot](path_to_screenshot.png)
-
-*Replace "path_to_screenshot.png" with the actual file path or URL to the screenshot of your Flutter app.*
+![Screenshot](https://github.com/virtualwiz1/flutter_wizTech/blob/main/foodle_app_ui/screenshot.png)
 
 Feel free to explore and modify the code to better understand how each widget functions. Happy Fluttering!
